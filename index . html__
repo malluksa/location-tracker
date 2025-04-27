@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Location Tracker</title>
+  <link rel="stylesheet" href="style.css"> <!-- Linking to the CSS file -->
+</head>
+<body>
+  <h1>Location Tracker</h1>
+  <p>Click the button to get your current location.</p>
+  
+  <button id="get-location">Get Location</button>
+  
+  <div id="location-info"></div>
+  
+  <script src="script.js"></script> <!-- Linking to the JavaScript file -->
+</body>
+</html>
